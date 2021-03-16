@@ -6,14 +6,12 @@ Terminal and Markdown in Github
 # Travel Destinations 
 ## Japan 
      
--Has __beautiful__ mountains
-     -Delicious _sushi_ 
-     -Tokyo looks fun 
+- Has __beautiful__ mountains
+     - Delicious _sushi_ 
+     - Tokyo looks fun 
     
 ### Columbia
 
-| People        | Places        | Things |   |   |
-|---------------|---------------|--------|---|---|
-| Pablo Escobar | Coocra Valley | Hippos |   |   |
-|               |               |        |   |   |
-|               |               |        |   |   |
+| People        | Places        | Things 
+|---------------|---------------|--------
+| Pablo Escobar | Coocra Valley | Hippos 
